@@ -1,6 +1,2 @@
-export function selectBook(book) {
-    return {
-        type: 'BOOK_SELECTED',
-        payload: book
-    }
-}
+const API_KEY = '76a95b393a00a433eebaeb586a59471a';
+
